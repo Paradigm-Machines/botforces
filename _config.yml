@@ -1,0 +1,12 @@
+title: Upcoming Robotics Competitions
+description: Home page for Botforces, a platform to find and participate in robotics competitions.
+theme: upcoming-robotics-competitions
+
+url: https://botforces.xyz
+
+aux_links:
+  Feedback: https://github.com/Paradigm-Machines/botforces/issues
+  Discord: https://discord.gg/csfJ9FY6r6
+
+nav_enabled: false
+search_enabled: false
